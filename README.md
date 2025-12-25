@@ -95,12 +95,6 @@ Library authorities can use this analysis to
 * Create an interactive dashboard
 * Analyze student reading behavior
 
-##  How to Run the Project
-
-1. Clone the repository
-2. Install required libraries
-3. Run the Python script
-4. Make sure the CSV file is in the same folder
 
 ##  Author
 
